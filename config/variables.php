@@ -1,13 +1,13 @@
 <?php
 // Variables
 return [
-  "creatorName" => "ThemeSelection",
-  "creatorUrl" => "https://themeselection.com",
-  "templateName" => "Materio",
-  "templateSuffix" => "Bootstrap Dashboard FREE",
-  "templateVersion" => "2.0.0",
+  "creatorName" => "Roynaldi",
+  "creatorUrl" => "https://roidev.my.id",
+  "templateName" => "PubMart",
+  "templateSuffix" => "Point Of Sale",
+  "templateVersion" => "1.0.0",
   "templateFree" => true,
-  "templateDescription" => "Most Powerful & Comprehensive Bootstrap 5 + Laravel HTML Admin Dashboard Template built for developers!",
+  "templateDescription" => "Aplikasi Kasir POS untuk UMKM menggunakan TARL stack !",
   "templateKeyword" => "dashboard, bootstrap 5 dashboard, bootstrap 5 design, bootstrap 5, bootstrap 5 free, free admin template",
   "licenseUrl" => "https://themeselection.com/license/",
   "livePreview" => "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template-free/demo/",
