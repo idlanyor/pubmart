@@ -8,7 +8,7 @@ use App\Models\Produk;
 class Kategori extends Model
 {
   protected $table = 'kategori';
-  protected $fillable = ['nama_kategori']
+  protected $fillable = ['nama_kategori'];
   public function produk()
   {
     return $this->hasMany('Produk', 'id');
